@@ -1,4 +1,8 @@
-# todo_manager
+# Todo Manager
+Simple application using Vue.js with the Vuex state management library.
+
+- Tutorial Followed: [[1]](https://www.youtube.com/watch?v=5lVQgZzLMHc)
+- Fetched dummy JSON data from JSON Placeholder: [[2]](https://jsonplaceholder.typicode.com)
 
 ## Project setup
 ```
@@ -15,15 +19,6 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## References:
+- [1] [Vuex Crash Course | State Management: https://www.youtube.com/watch?v=5lVQgZzLMHc](https://www.youtube.com/watch?v=5lVQgZzLMHc)
+- [2] [JSON Placeholder: https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
